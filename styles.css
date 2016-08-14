@@ -163,6 +163,7 @@ body {
 	background-position: center;
 	width: 20px;
 	height: 20px;
+	vertical-align: middle;
 }
 
 .main-nav .apps-button:hover {
